@@ -1,0 +1,7 @@
+Membangun_model/
+Monitoring dan Logging/
+*.zip
+dataset_raw/rockpaperscissors/
+dataset_raw/__MACOSX/
+__pycache__/
+*.npy
