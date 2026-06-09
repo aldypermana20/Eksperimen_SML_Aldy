@@ -1,0 +1,2 @@
+Dataset mentah (rockpaperscissors.zip) berukuran sekitar 322MB sehingga diupload ke Google Drive berikut:
+- rockpaperscissors.zip: https://drive.google.com/file/d/1WS7pi5mvm3zaKxFPU2i6mz_Ff6QxtGdX/view?usp=sharing

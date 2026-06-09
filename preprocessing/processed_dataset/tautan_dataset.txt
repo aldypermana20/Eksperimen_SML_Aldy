@@ -1,0 +1,6 @@
+Dataset yang telah dipreprocessing (berformat .npy) berukuran sangat besar sehingga diupload ke Google Drive berikut:
+
+- X_train.npy: https://drive.google.com/file/d/1F3Z9oxo-qKRXwglTSENQVrEYnxluBwt0/view?usp=sharing
+- X_test.npy: https://drive.google.com/file/d/1LwJEb14xd8hFiQWnf1OkabaPIRhrXfeV/view?usp=sharing
+- y_train.npy: https://drive.google.com/file/d/1USJvefPUH3jFDkx_Eg_YeRovzc2MChrf/view?usp=sharing
+- y_test.npy: https://drive.google.com/file/d/1ZB6im0R1iITPGYavCSkuZfn0TCLrFyOH/view?usp=sharing
